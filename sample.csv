@@ -1,0 +1,37 @@
+fecha,producto,categoria,cantidad,precio_unitario,vendedor,region
+2024-01-03,Laptop Pro 15,Tecnología,2,1299.99,Ana García,Norte
+2024-01-05,Mouse Inalámbrico,Accesorios,15,29.99,Carlos López,Sur
+2024-01-07,Monitor 27",Tecnología,3,349.99,Ana García,Norte
+2024-01-09,Teclado Mecánico,Accesorios,8,89.99,María Torres,Centro
+2024-01-11,Laptop Pro 15,Tecnología,1,1299.99,Carlos López,Sur
+2024-01-14,Auriculares BT,Accesorios,12,59.99,Pedro Ruiz,Norte
+2024-01-16,Tablet X10,Tecnología,5,499.99,María Torres,Centro
+2024-01-18,Mouse Inalámbrico,Accesorios,20,29.99,Ana García,Norte
+2024-01-21,Webcam HD,Accesorios,7,79.99,Carlos López,Sur
+2024-01-23,Laptop Pro 15,Tecnología,3,1299.99,Pedro Ruiz,Norte
+2024-01-25,SSD 1TB,Almacenamiento,10,119.99,María Torres,Centro
+2024-01-28,Laptop Air 13,Tecnología,2,999.99,Ana García,Norte
+2024-02-01,Monitor 27",Tecnología,4,349.99,Carlos López,Sur
+2024-02-04,Teclado Mecánico,Accesorios,6,89.99,Pedro Ruiz,Norte
+2024-02-06,SSD 1TB,Almacenamiento,14,119.99,Ana García,Norte
+2024-02-08,Tablet X10,Tecnología,3,499.99,Carlos López,Sur
+2024-02-12,Auriculares BT,Accesorios,18,59.99,María Torres,Centro
+2024-02-14,HDD Externo 2TB,Almacenamiento,9,89.99,Pedro Ruiz,Norte
+2024-02-16,Laptop Pro 15,Tecnología,2,1299.99,Ana García,Norte
+2024-02-19,Mouse Inalámbrico,Accesorios,25,29.99,Carlos López,Sur
+2024-02-21,Webcam HD,Accesorios,11,79.99,María Torres,Centro
+2024-02-23,SSD 1TB,Almacenamiento,8,119.99,Pedro Ruiz,Norte
+2024-02-26,Laptop Air 13,Tecnología,4,999.99,Ana García,Norte
+2024-02-28,Teclado Mecánico,Accesorios,9,89.99,Carlos López,Sur
+2024-03-04,Monitor 27",Tecnología,2,349.99,Pedro Ruiz,Norte
+2024-03-06,HDD Externo 2TB,Almacenamiento,12,89.99,María Torres,Centro
+2024-03-08,Laptop Pro 15,Tecnología,4,1299.99,Ana García,Norte
+2024-03-11,Auriculares BT,Accesorios,22,59.99,Carlos López,Sur
+2024-03-13,SSD 1TB,Almacenamiento,6,119.99,Pedro Ruiz,Norte
+2024-03-15,Tablet X10,Tecnología,7,499.99,María Torres,Centro
+2024-03-18,Mouse Inalámbrico,Accesorios,30,29.99,Ana García,Norte
+2024-03-20,Laptop Air 13,Tecnología,3,999.99,Carlos López,Sur
+2024-03-22,Webcam HD,Accesorios,14,79.99,Pedro Ruiz,Norte
+2024-03-25,Teclado Mecánico,Accesorios,11,89.99,María Torres,Centro
+2024-03-27,HDD Externo 2TB,Almacenamiento,7,89.99,Ana García,Norte
+2024-03-29,Monitor 27",Tecnología,5,349.99,Carlos López,Sur
