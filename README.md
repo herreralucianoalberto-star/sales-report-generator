@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Generador automático de reportes de ventas** desde CSV a Markdown.
 # sales-report-generator
 
 Script en Python que toma un CSV de ventas y genera un reporte en Markdown con las métricas básicas: total facturado, producto más vendido, desglose por categoría y evolución mensual.
